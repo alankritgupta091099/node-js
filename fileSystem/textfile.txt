@@ -1,0 +1,2 @@
+Hello content!
+Similarly do all the other things like open and write
